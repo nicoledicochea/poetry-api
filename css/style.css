@@ -1,0 +1,92 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 62.5%;
+  letter-spacing: 0.2em;
+}
+
+main {
+  width: 100%;
+  margin: 0 auto;
+
+}
+
+button {
+  width: 25em;
+  border: none;
+  margin-bottom: 5em;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 1em;
+  padding: 2em;
+  background-color: #2b2123;
+  color: #fff;
+  margin: 5em 0;
+}
+
+button:hover {
+  background-color: #403a3b;
+}
+
+h1, h2, h3 {
+  color: #2b2123;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin: 0;
+  font-weight: 100;
+}
+
+h1 {
+  padding: 2em;
+  font-size: 2em;
+}
+
+h2 {
+  
+  letter-spacing: 0.1em;
+  text-transform: none;
+  padding: 3em 1em;
+  font-size: 1.5em;
+  color: #2b2123;
+  /* #2e292b #fefbfa #1d8586*/
+  /* #2b2123 #e3e1cc */
+}
+
+/* h2:last-of-type {
+  border-bottom: #c8d3d3 3.5em solid;
+  margin-bottom: 5em;
+} */
+
+h3 {
+  /* background-color: #c8d3d3; */
+  padding: 2em;
+  font-size: 1em;
+  color: #2b2123;
+}
+
+h1, h2, h3 {
+  border-bottom: #2b2123 1px solid;
+}
+
+section {
+  margin: 0 0 5em;
+}
+
+p {
+  font-size: 1.1em;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
