@@ -1,7 +1,9 @@
 # So It Prose...
 A generator for all the poetic souls out there.
 
-<img width="714" alt="Screenshot of the So It Prose... Website" src="https://user-images.githubusercontent.com/111663583/197367627-b0984120-ee0f-46f0-82ec-02fd57a79d6a.png">
+<p align="center"> <img alt="Screenshot of the So It Prose... Website" src="https://user-images.githubusercontent.com/111663583/201508162-80e4948d-30d4-44cd-85db-b3f2cbc0c26b.gif"></p>
+
+
 
 **Link to project:** [So It Prose...](https://nicoledicochea.github.io/poetry-api/)
 
